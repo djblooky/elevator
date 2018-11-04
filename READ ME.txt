@@ -1,0 +1,14 @@
+Created by Haley Phillips!
+
+-------------------------------------
+TO REGULAR COMPILE:
+-------------------------------------
+
+gcc elevator2.c -o run
+./run
+
+-------------------------------------
+STRICT COMPILATION:
+-------------------------------------
+
+gcc elevator2.c -Wall -Wextra -O2 -std=c99 -pedantic
